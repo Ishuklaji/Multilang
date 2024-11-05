@@ -1,0 +1,7 @@
+{
+  "greeting": "Bonjour, Bienvenue!",
+  "description": {
+    "line1": "Ceci est un exemple de texte. <1>{{Bamboo}}</1>",
+    "line2": "Ceci est un autre exemple de texte."
+  }
+}
